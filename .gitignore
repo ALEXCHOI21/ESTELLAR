@@ -1,0 +1,17 @@
+# Environments
+.env
+*.env
+.env.*
+
+# Local Python Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Media & Temporary Assets for Video Generation
+*.mp4
+*.mp3
+*.wav
+*.srt
+/temp_assets/
